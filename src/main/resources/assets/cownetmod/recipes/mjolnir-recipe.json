@@ -1,0 +1,26 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "AAA",
+    "ABA",
+    " B "
+  ],
+  "key": {
+    "A": [
+      {
+        "item": "cownetmod:tutorial_block",
+        "data": 0
+      }
+    ],
+    "B": [
+      {
+        "item": "minecraft:stick",
+        "data": 0
+      }
+    ]
+  },
+  "result": {
+    "item": "cownetmod:thor_hammer",
+    "data": 0
+  }
+}

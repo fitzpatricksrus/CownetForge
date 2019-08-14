@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "AAA",
+    "AAA",
+    "AAA"
+  ],
+  "key": {
+    "A": [
+      {
+        "item": "cownetmod:basic_ingot",
+        "data": 0
+      }
+    ]
+  },
+  "result": {
+    "item": "cownetmod:tutorial_block",
+    "data": 0
+  }
+}
